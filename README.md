@@ -1,4 +1,4 @@
-# Bubble level
+# Alfadi (Bubble level)
 
 <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Bubble1.png" width="150"/> <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Bubble2.png" width="150"/>
 
