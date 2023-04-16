@@ -2,11 +2,11 @@
 
 <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Bubble1.png" width="150"/> <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Bubble2.png" width="150"/>
 
-With Bubble you can measure angles and inclination.
+Discover precision and ease with Alfadi, your go-to app for angle measurement and inclination assessment, completely ad-free.
 
-Hold one of the four sides of the phone against an object or place it on a flat surface to check the orientation.
+Simply align one of your phone's four sides with an object or place it on a level surface to determine its orientation.
 
-No permissions required.
+Experience a user-friendly and ad-free solution with no permissions required.
 
 ## License
 
