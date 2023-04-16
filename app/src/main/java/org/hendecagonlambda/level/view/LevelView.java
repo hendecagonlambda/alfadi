@@ -1,4 +1,4 @@
-package org.woheller69.level.view;
+package org.hendecagonlambda.level.view;
 
 import android.content.Context;
 import android.os.Handler;
@@ -10,8 +10,8 @@ import android.view.SurfaceView;
 import android.view.View;
 import android.view.View.OnTouchListener;
 
-import org.woheller69.level.orientation.Orientation;
-import org.woheller69.level.painter.LevelPainter;
+import org.hendecagonlambda.level.orientation.Orientation;
+import org.hendecagonlambda.level.painter.LevelPainter;
 
 /*
  *  This file is part of Level (an Android Bubble Level).

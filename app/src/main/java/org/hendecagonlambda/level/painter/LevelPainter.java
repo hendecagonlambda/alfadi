@@ -1,8 +1,6 @@
-package org.woheller69.level.painter;
+package org.hendecagonlambda.level.painter;
 
 import android.content.Context;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.Rect;
@@ -13,10 +11,10 @@ import android.view.SurfaceHolder;
 
 import androidx.core.content.ContextCompat;
 
-import org.woheller69.level.Level;
-import org.woheller69.level.R;
-import org.woheller69.level.orientation.Orientation;
-import org.woheller69.level.util.PreferenceHelper;
+import org.hendecagonlambda.level.Level;
+import org.hendecagonlambda.level.R;
+import org.hendecagonlambda.level.orientation.Orientation;
+import org.hendecagonlambda.level.util.PreferenceHelper;
 
 import java.text.DecimalFormat;
 

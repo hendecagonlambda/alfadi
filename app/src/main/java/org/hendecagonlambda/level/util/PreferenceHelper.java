@@ -1,4 +1,4 @@
-package org.woheller69.level.util;
+package org.hendecagonlambda.level.util;
 
 import android.content.Context;
 import android.content.SharedPreferences;

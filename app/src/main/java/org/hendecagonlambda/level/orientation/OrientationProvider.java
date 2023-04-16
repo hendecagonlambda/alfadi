@@ -1,4 +1,4 @@
-package org.woheller69.level.orientation;
+package org.hendecagonlambda.level.orientation;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -11,7 +11,7 @@ import android.view.Surface;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import org.woheller69.level.Level;
+import org.hendecagonlambda.level.Level;
 
 import java.util.Arrays;
 import java.util.Collections;

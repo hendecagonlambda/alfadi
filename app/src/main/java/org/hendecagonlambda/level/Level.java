@@ -1,4 +1,4 @@
-package org.woheller69.level;
+package org.hendecagonlambda.level;
 
 import android.content.Context;
 import android.content.Intent;
@@ -17,11 +17,11 @@ import android.widget.Toast;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
-import org.woheller69.level.orientation.Orientation;
-import org.woheller69.level.orientation.OrientationListener;
-import org.woheller69.level.orientation.OrientationProvider;
-import org.woheller69.level.util.PreferenceHelper;
-import org.woheller69.level.view.LevelView;
+import org.hendecagonlambda.level.orientation.Orientation;
+import org.hendecagonlambda.level.orientation.OrientationListener;
+import org.hendecagonlambda.level.orientation.OrientationProvider;
+import org.hendecagonlambda.level.util.PreferenceHelper;
+import org.hendecagonlambda.level.view.LevelView;
 
 /*
  *  This file is part of Level (an Android Bubble Level).

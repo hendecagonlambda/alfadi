@@ -1,12 +1,12 @@
-package org.woheller69.level;
+package org.hendecagonlambda.level;
 
 import android.os.Bundle;
 
 import androidx.preference.ListPreference;
 import androidx.preference.PreferenceFragmentCompat;
 
-import org.woheller69.level.util.PrefKeys;
-import org.woheller69.level.util.PreferenceHelper;
+import org.hendecagonlambda.level.util.PrefKeys;
+import org.hendecagonlambda.level.util.PreferenceHelper;
 
 public class SettingsFragment extends PreferenceFragmentCompat {
     @Override

@@ -1,8 +1,8 @@
-package org.woheller69.level;
+package org.hendecagonlambda.level;
 
 import android.app.Application;
 
-import org.woheller69.level.util.PreferenceHelper;
+import org.hendecagonlambda.level.util.PreferenceHelper;
 
 public class LevelApp extends Application {
 
